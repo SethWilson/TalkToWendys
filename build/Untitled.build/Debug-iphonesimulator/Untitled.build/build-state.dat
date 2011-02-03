@@ -1,0 +1,294 @@
+TUntitled
+v7
+r0
+t317874636.223330
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist" Untitled-Info.plist
+cCompileXIB "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/MainWindow.xib"
+cCompileXIB "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/RootViewController.xib"
+cProcessPCH /var/folders/dN/dNcFnnGDHVCkF6iRHw0YL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-bhpotknjssnodzeaamzxtrmsbwha/Untitled_Prefix.pch.gch Untitled_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled.momd" "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Untitled.xcdatamodeld"
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/UntitledAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled" normal i386
+cGenerateDSYMFile "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM" "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled"
+cTouch "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A4E0B00000000001D2EC0
+t1280986635
+s1912512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A4DED000000000000046B
+t1280986605
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/RootViewController.h
+c000000004D4229440000000000000435
+t1296181572
+s1077
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/RootViewController.m
+c000000004D4227310000000000002D7D
+t1296181041
+s11645
+i"RootViewController.h"
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/UntitledAppDelegate.h
+c000000004D420C4400000000000003ED
+t1296174148
+s1005
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/UntitledAppDelegate.m
+c000000004D420C440000000000001F8B
+t1296174148
+s8075
+i"UntitledAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/MainWindow.xib
+c000000004D4213000000000000006142
+t1296175872
+s24898
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/RootViewController.xib
+c000000004D4229F600000000000090C9
+t1296181750
+s37065
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Untitled.xcdatamodeld
+c000000004D420C440000000000000088
+t1296174148
+s136
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Untitled_Prefix.pch
+c000000004D420C440000000000000165
+t1296174148
+s357
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app
+t1296181753
+s272
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM
+t1296181590
+s102
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist
+t1296181588
+s595
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/MainWindow.nib
+t1296181588
+s2514
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/PkgInfo
+t1296181588
+s8
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/RootViewController.nib
+t1296181753
+s5481
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
+t1296181590
+s32676
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled.momd
+t1296181590
+s136
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o
+t1296181590
+s67428
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Untitled.LinkFileList
+c000000004D42295400000000000001F1
+t1296181588
+s497
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o
+t1296181590
+s65252
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o
+t1296181590
+s6368
+
+N/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/main.m
+c000000004D420C44000000000000016A
+t1296174148
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/dN/dNcFnnGDHVCkF6iRHw0YL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-bhpotknjssnodzeaamzxtrmsbwha/Untitled_Prefix.pch.gch
+t1296181590
+s16080688
+
+NUntitled-Info.plist
+c000000004D420C44000000000000038D
+t1296174148
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317874636#317874636#0(0"0(0#1#0"8600551712#0"0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317874390.775354
+e317874390.888981
+r1
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o
+x/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/RootViewController.m317874390#317874390#0(0"0(0#0#99"/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/RootViewController.m8645795648#2406"    cd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap" -iquote "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap" "-F/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/include" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources" -include /var/folders/dN/dNcFnnGDHVCkF6iRHw0YL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-bhpotknjssnodzeaamzxtrmsbwha/Untitled_Prefix.pch -c "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/RootViewController.m" -o "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/UntitledAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317874390.667895
+e317874390.792543
+r1
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o
+x/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/UntitledAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/UntitledAppDelegate.m317874390#317874390#0(0"0(0#0#100"/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/UntitledAppDelegate.m8650395488#2408"    cd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap" -iquote "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap" "-F/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/include" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources" -include /var/folders/dN/dNcFnnGDHVCkF6iRHw0YL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-bhpotknjssnodzeaamzxtrmsbwha/Untitled_Prefix.pch -c "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Classes/UntitledAppDelegate.m" -o "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o"0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317874390.609591
+e317874390.667785
+r1
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o
+x/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/main.m317874390#317874390#0(0"0(0#0#77"/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/main.m8649565952#2370"    cd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap" -iquote "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap" "-F/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/include" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources" -include /var/folders/dN/dNcFnnGDHVCkF6iRHw0YL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-bhpotknjssnodzeaamzxtrmsbwha/Untitled_Prefix.pch -c "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/main.m" -o "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/MainWindow.xib"
+s317874388.444987
+e317874389.028860
+r1
+xCompileXIB
+x/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317874388#317874389#0(0"0(0#0#85"/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/MainWindow.xib8602069184#735"    cd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/MainWindow.nib" "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/RootViewController.xib"
+s317874552.702704
+e317874553.377084
+r1
+xCompileXIB
+x/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib317874552#317874553#0(0"0(0#0#93"/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/RootViewController.xib8030569250234916864#751"    cd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/RootViewController.nib" "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/RootViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CDataModelVersionCompile "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled.momd" "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Untitled.xcdatamodeld"
+s317874390.608575
+e317874390.775242
+r1
+xDataModelVersionCompile
+x/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled.momd
+x/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Untitled.xcdatamodeld
+lSLF07#2@100"DataModelVersionCompile build/Debug-iphonesimulator/Untitled.app/Untitled.momd Untitled.xcdatamodeld317874390#317874390#0(0"0(0#0#92"/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Untitled.xcdatamodeld8650658720#553"    cd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Untitled.xcdatamodeld" "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled.momd"0#
+
+CGenerateDSYMFile "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM" "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled"
+s317874390.922020
+e317874390.948083
+r1
+xGenerateDSYMFile
+x/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM
+x/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Untitled.app.dSYM build/Debug-iphonesimulator/Untitled.app/Untitled317874390#317874390#0(0"0(0#0#120"/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled8610870272#550"    cd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled" -o "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM"0#
+
+CLd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled" normal i386
+s317874390.889086
+e317874390.921904
+r1
+xLd
+x/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
+xnormal
+xi386
+lSLF07#2@125"Link /Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled317874390#317874390#0(0"0(0#0#0"8628641952#1157"    cd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator" "-F/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator" -filelist "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Untitled.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled"0#
+
+CProcessInfoPlistFile "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist" Untitled-Info.plist
+s317874388.441316
+e317874388.444810
+r1
+xProcessInfoPlistFile
+x/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist
+xUntitled-Info.plist
+lSLF07#2@27"Process Untitled-Info.plist317874388#317874388#0(0"0(0#0#90"/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Untitled-Info.plist8611033024#646"    cd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Untitled-Info.plist -genpkginfo "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist"0#
+
+CProcessPCH /var/folders/dN/dNcFnnGDHVCkF6iRHw0YL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-bhpotknjssnodzeaamzxtrmsbwha/Untitled_Prefix.pch.gch Untitled_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317874389.060430
+e317874390.608405
+r1
+xProcessPCH
+x/var/folders/dN/dNcFnnGDHVCkF6iRHw0YL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-bhpotknjssnodzeaamzxtrmsbwha/Untitled_Prefix.pch.gch
+xUntitled_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Untitled_Prefix.pch317874389#317874390#0(0"0(0#0#90"/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Untitled_Prefix.pch8646725984#2227"    cd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap" -iquote "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap" "-F/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/include" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386" "-I/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources" -c "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/Untitled_Prefix.pch" -o /var/folders/dN/dNcFnnGDHVCkF6iRHw0YL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-bhpotknjssnodzeaamzxtrmsbwha/Untitled_Prefix.pch.gch0#
+
+CTouch "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app"
+s317874553.377867
+e317874553.380850
+r1
+xTouch
+x/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app
+lSLF07#2@117"Touch /Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app317874553#317874553#0(0"0(0#0#0"8319383698888684544#409"    cd "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/sethwilson/Desktop/iOS Boot Camp/Projects/TalkToWendys/Untitled/build/Debug-iphonesimulator/Untitled.app"0#
+
